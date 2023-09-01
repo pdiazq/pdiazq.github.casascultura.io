@@ -53,7 +53,7 @@ var svg = d3.select("body").append("svg")
     return days[dayName];
   }
   
-d3.csv("data.csv", function(error, data) {
+d3.csv("archivo.csv", function(error, data) {
   if (error) throw error;
   var ndx = crossfilter(data);
   var arteDiaNames = ndx.dimension(function(d) {
