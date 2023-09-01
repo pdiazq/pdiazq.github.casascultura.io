@@ -1,0 +1,143 @@
+Core_ASR9K10_Agpr 10.5.108.241; # BGP neighbors;13
+Core_ASR9K01_Cana 10.5.152.241; # BGP neighbors;10
+Core_ASR9910_Cob 10.5.28.241; # BGP neighbors;27
+Core_ASR9K10_Gdl_GPON 10.5.56.241; # VRFs;2
+Core_ASR9K10_Gdl_GPON 10.5.56.241; # BGP neighbors;19
+Core_ASR9K10_Gdl_GPON 10.5.56.241; No Active bgp ipv4 unicast summary;2
+Core_ASR9K10_Gdl_GPON 10.5.56.241; No Active bgp ipv6 unicast summary;2
+Core_ASR9K10_Gdl_GPON 10.5.56.241; No Active bgp l2vpn evpn summary;2
+Core_ASR9K10_Gdl_GPON 10.5.56.241; No Active bgp neighbor;2
+Core_ASR9K10_Gdl_GPON 10.5.56.241; No Active bgp summary;2
+Core_ASR9K10_Hmo 189.196.41.230; # Ospf neighbors;3
+Core_ASR9K10_Hmo 189.196.41.230; # Mpls neighbors;3
+Core_ASR9K10_Hmo 189.196.41.230; # LDP neighbors;3
+Core_ASR9K10_Hmo 189.196.41.230; # VRFs;23
+Core_ASR9K10_Hmo 189.196.41.230; # BGP neighbors;2
+Core_ASR9K06_Lpaz 10.5.228.241; # BGP neighbors;22
+Core_ASR9K10_Lmm 10.5.16.241; # Ospf neighbors;10
+Core_ASR9K10_Lmm 10.5.16.241; # BGP neighbors;38
+Core_ASR9K10_Lmm 10.5.16.241; No Active bgp ipv4 unicast summary;7
+Core_ASR9K10_Lmm 10.5.16.241; No Active bgp ipv6 unicast summary;7
+Core_ASR9K10_Lmm 10.5.16.241; No Active bgp l2vpn evpn summary;7
+Core_ASR9K10_Lmm 10.5.16.241; No Active bgp neighbor;7
+Core_ASR9K10_Lmm 10.5.16.241; No Active bgp summary;7
+Core_ASR9K01_Magda 10.5.148.241; # BGP neighbors;7
+Core_ASR9001_NZRI 10.5.160.241; # BGP neighbors;11
+Core_ASR9K10_Nav 10.5.24.241; # BGP neighbors;17
+Core_ASR9K10_Nav 10.5.24.241; No Active bgp ipv4 unicast summary;2
+Core_ASR9K10_Nav 10.5.24.241; No Active bgp ipv6 unicast summary;2
+Core_ASR9K10_Nav 10.5.24.241; No Active bgp l2vpn evpn summary;2
+Core_ASR9K10_Nav 10.5.24.241; No Active bgp neighbor;2
+Core_ASR9K10_Nav 10.5.24.241; No Active bgp summary;2
+Core_ASR9K06_Nog 10.5.100.241; # Ospf neighbors;6
+Core_ASR9K06_Nog 10.5.100.241; # Mpls neighbors;1
+Core_ASR9K06_Nog 10.5.100.241; # BGP neighbors;28
+Core_ASR9910_Qro 10.5.164.241; # Ospf neighbors;3
+Core_ASR9910_Qro 10.5.164.241; # Mpls neighbors;3
+Core_ASR9910_Qro 10.5.164.241; # VRFs;1
+Core_ASR9910_Qro 10.5.164.241; # BGP neighbors;46
+Core_ASR9910_Qro 10.5.164.241; No Active bgp ipv4 unicast summary;8
+Core_ASR9910_Qro 10.5.164.241; No Active bgp ipv6 unicast summary;8
+Core_ASR9910_Qro 10.5.164.241; No Active bgp l2vpn evpn summary;8
+Core_ASR9910_Qro 10.5.164.241; No Active bgp neighbor;8
+Core_ASR9910_Qro 10.5.164.241; No Active bgp summary;8
+Core_ASR9K10_QRO_2 10.5.164.243; # Ospf neighbors;2
+Core_ASR9K10_QRO_2 10.5.164.243; # BGP neighbors;7
+Core_ASR9K06_Scrz 10.5.12.241; # BGP neighbors;12
+Core_ASR9K06_Sjdc 10.5.52.241; # BGP neighbors;23
+Core_ASR9K06_Sjdc 10.5.52.241; No Active bgp ipv4 unicast summary;6
+Core_ASR9K06_Sjdc 10.5.52.241; No Active bgp ipv6 unicast summary;6
+Core_ASR9K06_Sjdc 10.5.52.241; No Active bgp l2vpn evpn summary;6
+Core_ASR9K06_Sjdc 10.5.52.241; No Active bgp neighbor;6
+Core_ASR9K06_Sjdc 10.5.52.241; No Active bgp summary;6
+Core_ASR9K10_Tep 10.5.156.241; # Ospf neighbors;5
+Core_ASR9K10_Tep 10.5.156.241; # BGP neighbors;32
+Core_ASR99K6_Txp 10.5.20.241; # BGP neighbors;16
+Core_ASR9910_Tgz 10.5.140.241; # Ospf neighbors;13
+Core_ASR9910_Tgz 10.5.140.241; # Mpls neighbors;1
+Core_ASR9910_Tgz 10.5.140.241; # BGP neighbors;39
+Core_ASR9K06_Dgo 10.5.136.241; # Ospf neighbors;9
+Core_ASR9K06_Dgo 10.5.136.241; # Mpls neighbors;1
+Core_ASR9K06_Dgo 10.5.136.241; # LDP neighbors;1
+Core_ASR9K06_Dgo 10.5.136.241; # BGP neighbors;38
+Core_ASR9K06_Dgo 10.5.136.241; No Active bgp ipv4 unicast summary;2
+Core_ASR9K06_Dgo 10.5.136.241; No Active bgp ipv6 unicast summary;2
+Core_ASR9K06_Dgo 10.5.136.241; No Active bgp l2vpn evpn summary;2
+Core_ASR9K06_Dgo 10.5.136.241; No Active bgp neighbor;2
+Core_ASR9K06_Dgo 10.5.136.241; No Active bgp summary;2
+Core_ASR9K06_Gto 10.5.84.241; # VRFs;1
+Core_ASR9K06_Gto 10.5.84.241; # BGP neighbors;18
+Core_ASR9K10_HMO_2 189.196.41.231; # Ospf neighbors;3
+Core_ASR9K10_HMO_2 189.196.41.231; # Mpls neighbors;3
+Core_ASR9K10_HMO_2 189.196.41.231; # LDP neighbors;3
+Core_ASR9K10_HMO_2 189.196.41.231; # VRFs;22
+Core_ASR9K10_HMO_2 189.196.41.231; # BGP neighbors;2
+Core_ASR9K06_Joju 10.5.32.241; # BGP neighbors;19
+Core_ASR9910_Mor 10.5.184.241; # Ospf neighbors;13
+Core_ASR9910_Mor 10.5.184.241; # Mpls neighbors;3
+Core_ASR9910_Mor 10.5.184.241; # LDP neighbors;10
+Core_ASR9910_Mor 10.5.184.241; # BGP neighbors;46
+Core_ASR9910_Vjo 10.5.240.243; # Ospf neighbors;8
+Core_ASR9910_Vjo 10.5.240.243; # BGP neighbors;30
+Core_ASR9K10_Zac 10.5.176.241; # Ospf neighbors;4
+Core_ASR9K10_Zac 10.5.176.241; # VRFs;1
+Core_ASR9K10_Zac 10.5.176.241; # BGP neighbors;40
+Core_ASR9K01_Chco 10.5.192.241; # BGP neighbors;6
+Core_ASR9K01_Chco 10.5.192.241; No Active bgp ipv4 unicast summary;2
+Core_ASR9K01_Chco 10.5.192.241; No Active bgp ipv6 unicast summary;2
+Core_ASR9K01_Chco 10.5.192.241; No Active bgp l2vpn evpn summary;2
+Core_ASR9K01_Chco 10.5.192.241; No Active bgp neighbor;2
+Core_ASR9K01_Chco 10.5.192.241; No Active bgp summary;2
+Core_ASR9K10_Gys 10.5.44.241; # BGP neighbors;23
+Core_ASR9K10_Leon_2 189.196.41.233; # Ospf neighbors;5
+Core_ASR9K10_Leon_2 189.196.41.233; # Mpls neighbors;3
+Core_ASR9K10_Leon_2 189.196.41.233; # LDP neighbors;3
+Core_ASR9K10_Leon_2 189.196.41.233; # VRFs;21
+Core_ASR9K10_Leon_2 189.196.41.233; # BGP neighbors;14
+Core_ASR9K06_Sala 10.5.220.241; # BGP neighbors;21
+Core_ASR9K10_TOLUCA_2 10.5.196.243; # Ospf neighbors;10
+Core_ASR9K10_TOLUCA_2 10.5.196.243; # BGP neighbors;23
+Core_ASR9K10_TOLUCA_2 10.5.196.243; No Active bgp ipv4 unicast summary;2
+Core_ASR9K10_TOLUCA_2 10.5.196.243; No Active bgp ipv6 unicast summary;2
+Core_ASR9K10_TOLUCA_2 10.5.196.243; No Active bgp l2vpn evpn summary;2
+Core_ASR9K10_TOLUCA_2 10.5.196.243; No Active bgp neighbor;2
+Core_ASR9K10_TOLUCA_2 10.5.196.243; No Active bgp summary;2
+Core_ASR9K06_Urua 10.5.132.241; # Ospf neighbors;5
+Core_ASR9K06_Urua 10.5.132.241; # BGP neighbors;25
+Core_ASR9K06_Col 10.5.222.241; # BGP neighbors;23
+Core_ASR9K10_Mzt 10.5.48.241; # Ospf neighbors;12
+Core_ASR9K10_Mzt 10.5.48.241; # Mpls neighbors;1
+Core_ASR9K10_Mzt 10.5.48.241; # LDP neighbors;1
+Core_ASR9K10_Mzt 10.5.48.241; # BGP neighbors;37
+Core_ASR9K10_Mzt 10.5.48.241; No Active bgp ipv4 unicast summary;2
+Core_ASR9K10_Mzt 10.5.48.241; No Active bgp ipv6 unicast summary;2
+Core_ASR9K10_Mzt 10.5.48.241; No Active bgp l2vpn evpn summary;2
+Core_ASR9K10_Mzt 10.5.48.241; No Active bgp neighbor;2
+Core_ASR9K10_Mzt 10.5.48.241; No Active bgp summary;2
+Core_ASR9K10_Tol 10.5.196.241; # Ospf neighbors;12
+Core_ASR9K10_Tol 10.5.196.241; # VRFs;1
+Core_ASR9K10_Tol 10.5.196.241; # BGP neighbors;62
+Core_ASR9K10_Tol 10.5.196.241; No Active bgp ipv4 unicast summary;6
+Core_ASR9K10_Tol 10.5.196.241; No Active bgp ipv6 unicast summary;6
+Core_ASR9K10_Tol 10.5.196.241; No Active bgp l2vpn evpn summary;6
+Core_ASR9K10_Tol 10.5.196.241; No Active bgp neighbor;6
+Core_ASR9K10_Tol 10.5.196.241; No Active bgp summary;6
+CORE_ASR9910_ZRA 10.5.88.241; # Ospf neighbors;8
+CORE_ASR9910_ZRA 10.5.88.241; # VRFs;1
+CORE_ASR9910_ZRA 10.5.88.241; # BGP neighbors;41
+CORE_ASR9910_ZRA 10.5.88.241; No Active bgp ipv4 unicast summary;6
+CORE_ASR9910_ZRA 10.5.88.241; No Active bgp ipv6 unicast summary;6
+CORE_ASR9910_ZRA 10.5.88.241; No Active bgp l2vpn evpn summary;6
+CORE_ASR9910_ZRA 10.5.88.241; No Active bgp neighbor;6
+CORE_ASR9910_ZRA 10.5.88.241; No Active bgp summary;6
+Core_ASR9K06_Zih 10.5.208.241; # BGP neighbors;12
+Core_ASR9K01_Chgo 10.5.244.241; # BGP neighbors;13
+Core_ASR9K01_Chgo 10.5.244.241; No Active bgp ipv4 unicast summary;2
+Core_ASR9K01_Chgo 10.5.244.241; No Active bgp ipv6 unicast summary;2
+Core_ASR9K01_Chgo 10.5.244.241; No Active bgp l2vpn evpn summary;2
+Core_ASR9K01_Chgo 10.5.244.241; No Active bgp neighbor;2
+Core_ASR9K01_Chgo 10.5.244.241; No Active bgp summary;2
+Core_ASR9K10_Xal 10.5.116.241; # Ospf neighbors;9
+Core_ASR9K10_Xal 10.5.116.241; # Mpls neighbors;1
+Core_ASR9K10_Xal 10.5.116.241; # LDP neighbors;1
+Core_ASR9K10_Xal 10.5.116.241; # BGP neighbors;40
